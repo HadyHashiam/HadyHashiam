@@ -8,7 +8,6 @@ Computer Science graduate from the Canadian International College (CIC) with a f
 
 Skills: JavaScript.js / Node.js / Nest.js / Angular / Git / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
