@@ -3,10 +3,14 @@
 
 
 ### Hi there 👋, my name is Hady Hashim 
-#### I am Node.js Developer 
+#### I am Nodea.js Developer 
 Computer Science graduate from the Canadian International College (CIC) with a focus on backend development, particularly using Node.js. Experienced in building RESTful APIs, real-time applications, and working with various modern technologies. I am dedicated to improving backend performance and exploring new developments in mobile application backends. Looking to apply my skills in a collaborative environment and further grow as a developer. 
 
 Skills: JavaScript.js / Node.js / Nest.js / Angular / Git / HTML / CSS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HadyHashiam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hady-hashim-09a9a022a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hady.hashim.7/)  
 
 
 
