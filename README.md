@@ -7,7 +7,7 @@ My name is Hady Hashim
 #### I am Nodea.js Developer 
 Computer Science graduate from (CIC) with a focus on backend development, particularly using Node.js. Experienced in building RESTful APIs, real-time applications, and working with various modern technologies. Looking to apply my skills in a collaborative environment and further grow as a developer. 
 
-Skills: JavaScript.js / Node.js / Nest.js / Angular / Git / HTML / CSS / Integration tools / Reverse Proxy / Load balancing 
+others : Angular / Integration tools / Reverse Proxy / Load balancing 
 
 ### Skills
 
@@ -50,8 +50,6 @@ Skills: JavaScript.js / Node.js / Nest.js / Angular / Git / HTML / CSS / Integra
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
         </picture> </a>
 </p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hady-hashim-09a9a022a//)    
 
 
 
