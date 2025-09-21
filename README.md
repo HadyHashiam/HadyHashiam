@@ -5,7 +5,7 @@
 ### Hi there 👋
 My name is Hady Hashim 
 #### I am Nodea.js Developer 
-Computer Science graduate from (CIC) with a focus on backend development, particularly using Node.js. Experienced in building RESTful APIs, real-time applications, and working with various modern technologies. Looking to apply my skills in a collaborative environment and further grow as a developer. 
+Computer Science graduate from (CIC) with a focus on backend development, particularly using Node.js. Experienced in building RESTful APIs, real-time applications, with strong knowledge of Microservices, API design, and integration tools like IBM ACE, IBM MQ, and RabbitMQ. Looking to apply my skills in a collaborative environment and further grow as a developer. 
 
 others : Angular / Integration tools / Reverse Proxy / Load balancing 
 
