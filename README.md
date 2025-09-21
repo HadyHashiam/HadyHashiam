@@ -27,13 +27,13 @@ others : Angular / Integration tools / Reverse Proxy / Load balancing
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/> </a>
   <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+  <a href="https://redis.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="36" height="36" />
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/> </a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> </a>
   <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="36" height="36"/> </a>
   <a href="https://swagger.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/swagger.svg" width="36" height="36" alt="Swagger"/></a>
-  <a href="https://redis/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
- <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/socketdotio.svg" width="36" height="36" alt="Socket.IO"/></a>
+  <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/socketdotio.svg" width="36" height="36" alt="Socket.IO"/></a>
 </p>
 
 ### Socials
