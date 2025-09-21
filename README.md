@@ -28,6 +28,7 @@ others : Angular / Integration tools / Reverse Proxy / Load balancing
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" width="36" height="36" alt="SQL Server"/></a>
   <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
   <a href="https://swagger.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/swagger.svg" width="36" height="36" alt="Swagger"/></a>
  <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/socketdotio.svg" width="36" height="36" alt="Socket.IO"/></a>
